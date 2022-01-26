@@ -1,5 +1,12 @@
 # springboot-on-docker-for-kubernetes-cluster
 **Springboot、Docker、Dockerfile、DockerHub、Kubernetes**
+ 
+**前言：git clone https://github.com/wubiaowp/springboot-for-kubernetes-cluster.git
+       切换到项目目录下、kubernetes-springboot项目src目录**
+
+     -- docker Dockerfile文件
+     -- main   Java文件
+     -- yaml   Kubernetes执行文件
 
 **一、本地打包镜像推送到DockerHub**
 
