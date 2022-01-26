@@ -1,4 +1,4 @@
-HELP.md
+git commit -m '提交内容的描述'HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
